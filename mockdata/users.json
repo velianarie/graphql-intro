@@ -1,0 +1,7 @@
+[
+  { "id": "u1", "forename": "Alice", "surname": "Liddle", "lastSeen": "Wonderland", "followerIds": [ "u2", "u3", "u4", "u5" ] },
+  { "id": "u2", "forename": "Bob", "surname": "SquarePants", "lastSeen": "124 Conch St. Bikini Bottom", "followerIds": [ "u1", "u3", "u4", "u5" ] },
+  { "id": "u3", "forename": "Cruella", "surname": "de Vil", "lastSeen": "House of DeVil", "followerIds": [ "u1", "u2", "u4", "u5"] },
+  { "id": "u4", "forename": "Daisy", "surname": "Duck", "lastSeen": "Duckburg", "followerIds": [ "u1", "u2", "u3", "u5"] },   
+  { "id": "u5", "forename": "El", "surname": "Capitán", "lastSeen": "Beneath the rocks and dirt", "followerIds": [ "u1", "u2", "u3", "u4" ] }
+]

@@ -1,0 +1,62 @@
+[
+  { 
+    "id": "p1", 
+    "title": "Alice's first entry", 
+    "content": "Where am I?", 
+    "userId": "u1" 
+  },
+  { 
+    "id": "p2", 
+    "title": "Bob's first entry", 
+    "content": "Life is awesome down here", 
+    "userId": "u2" 
+  },
+  { 
+    "id": "p3", 
+    "title": "Cruella's first entry", 
+    "content": "Let's get those dogs", 
+    "userId": "u3" 
+  },
+  { 
+    "id": "p4", 
+    "title": "Alice's second entry", 
+    "content": "Where should I go?", 
+    "userId": "u1" 
+  },
+  { 
+    "id": "p5", 
+    "title": "Daisy's first entry", 
+    "content": "Hello there I'm Daisy", 
+    "userId": "u4" 
+  },
+  { 
+    "id": "p6", 
+    "title": "Bob's second entry", 
+    "content": "I can live here forever", 
+    "userId": "u2" 
+  },
+  { 
+    "id": "p7", 
+    "title": "El's first entry", 
+    "content": "Arrrgh I shouldn't have attempted to retrieve that golden coin!", 
+    "userId": "u5" 
+  },
+  { 
+    "id": "p8", 
+    "title": "Alice's third entry", 
+    "content": "How do I get out of here?", 
+    "userId": "u1" 
+  },
+  { 
+    "id": "p9", 
+    "title": "Daisy's second entry", 
+    "content": "Duckburg is a fictional city located in the fictional state of Calisota if you're wondering", 
+    "userId": "u4" 
+  },
+  { 
+    "id": "p10", 
+    "title": "Alice's fourth entry", 
+    "content": "Oh well might as well stick around", 
+    "userId": "u1" 
+  }
+]
